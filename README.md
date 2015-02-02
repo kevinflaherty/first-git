@@ -1,3 +1,3 @@
 # first-git
-First git repository
+First git repository.
 Getting familiar with github.
